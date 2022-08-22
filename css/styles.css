@@ -1,0 +1,145 @@
+a {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    color: #0F3D3E;
+    text-decoration: none;
+    margin: 0px 20px;
+}
+
+a:hover {
+    color: #F1F1F1;
+}
+
+body {
+    background-color: #F1F1F1;
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: #100F0F;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 30%;
+}
+
+.bottom-container {
+    background-color: #E2DCC8;
+    margin: 20px 0px 0px 0px;
+    padding: 30px;
+}
+
+.bottom-container p{
+    margin-bottom: 0px;
+}
+
+.btn {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    color: #F1F1F1;
+    font-size: 20px;
+    background: #0F3D3E;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+.btn:hover {
+    background: #1c6263;
+    text-decoration: none;
+    cursor: pointer;
+} 
+
+.coding{
+    width: 20%;
+    height: auto;
+    float: left;
+    margin-right: 30px;
+}
+
+.contact-me {
+    margin: 60px;
+}
+
+.contact-me p {
+    margin-bottom: 50px;
+}
+
+.copyright {
+    color: #8a8a8a;
+    font-size: 0.75rem;
+    margin-top: 25px;
+}
+
+.middle-container {
+    margin-top: 100px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
+h1 {
+    margin: 50px auto 0px;
+    font-family: 'Sacramento', cursive;
+    color: #0F3D3E;
+    font-size: 5rem;
+}
+
+h2 {
+    font-size: 1.5rem;
+    font-family: 'Montserrat', sans-serif;
+    color: #0F3D3E;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #0F3D3E;
+}
+
+hr {
+    border-style: dotted none none none;
+    border-color: #0F3D3E;
+    border-width: 5px;
+    width: 10%;
+    margin: 50px auto;
+}
+
+p {
+    line-height: 2;
+}
+
+.photography{
+    width: 20%;
+    height: auto;
+    float: right;
+    margin-left: 30px;
+}
+
+.photo-title {
+    clear: left;
+}
+
+.profile{
+    width: 15%;
+    height: auto;
+}
+
+.top-cloud {
+    display: block;
+    position: relative;
+    left: 60%;
+    right: 300px;
+}
+
+.top-container {
+    background-color: #E2DCC8;
+    margin-top: 0px;
+    padding-top: 50px;
+}
+
+.top-container h2 {
+    font-weight: normal;
+}

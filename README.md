@@ -1,1 +1,1 @@
-# simple-personal-site
+# https://laurrx.github.io/simple-personal-site/
